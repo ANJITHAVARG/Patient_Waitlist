@@ -19,7 +19,7 @@ An interactive and dynamic Power BI solution built to monitor patient waiting li
 The Patient Waitlist Dashboard helps healthcare professionals and administrators visualize and analyze key metrics like total waiting list volume, monthly trends, and specialty performance. It serves as a decision-support tool for improving operational efficiency, identifying bottlenecks, and tracking progress across inpatient, outpatient, and day-case categories.
 
 
-  
+   <br>
 🧰 **Tech Stack**
 
 
@@ -40,7 +40,7 @@ PowerPoint / Canva – for creating dashboard backgrounds and layout design
 Adobe Color – for extracting and applying consistent color palettes
 
 
-  
+ <br>  
 
 🗂️ **Data Source**
 
@@ -65,7 +65,7 @@ Supplementary data:
 
 Specialty Mapping File (for grouping and categorization)
 
-
+ <br>
   
 ✨ **Features / Highlights**
 
@@ -80,7 +80,7 @@ Track backlog trends over time
 Compare performance year-over-year
 
 Identify overburdened specialties or demographic segments
-
+ <br>
 
 🎯 Goal of the Dashboard
 
@@ -95,7 +95,7 @@ Analyze trends by specialty, case type, and time band
 
 Support data-driven decision-making for healthcare operations
 
-
+ <br>
 📊 Walkthrough of Key Visuals
 
 
@@ -130,7 +130,7 @@ Provides granular data for further exploration by specialty, case type, and time
 Tooltip Page
 
 Displays contextual insights on hover, including specialty-level totals
-
+ <br>
 
 💡 Business Impact & Insights
 
@@ -143,7 +143,7 @@ Resource Allocation: Prioritize staffing or capacity for overloaded departments
 
 Data Transparency: Empower decision-makers with real-time, visually clear data
 
-
+ <br>
   
 ⚙️ **Development Workflow**
 
@@ -166,7 +166,7 @@ Testing & Sharing: UAT, data validation, and deployment with Row-Level Security 
 
 Routine Refresh: Scheduled monthly data updates and performance maintenance
 
-
+ <br>
   
 🔐 **Security**
 
