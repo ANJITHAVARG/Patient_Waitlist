@@ -11,7 +11,7 @@ A comprehensive Power BI dashboard designed to track and analyze patient waiting
 An interactive and dynamic Power BI solution built to monitor patient waiting lists, analyze historical trends, and assess specialty-level and age-profile performance using healthcare data (2018–2021).
 
 
-  
+   <br>
 
 🎯 **Short Description / Purpose**
 
