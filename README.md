@@ -20,6 +20,7 @@ The Patient Waitlist Dashboard helps healthcare professionals and administrators
 
 
    <br>
+   
 🧰 **Tech Stack**
 
 
@@ -80,6 +81,7 @@ Track backlog trends over time
 Compare performance year-over-year
 
 Identify overburdened specialties or demographic segments
+
  <br>
 
 🎯 Goal of the Dashboard
@@ -130,6 +132,7 @@ Provides granular data for further exploration by specialty, case type, and time
 Tooltip Page
 
 Displays contextual insights on hover, including specialty-level totals
+
  <br>
 
 💡 Business Impact & Insights
