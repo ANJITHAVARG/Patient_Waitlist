@@ -9,31 +9,37 @@ A comprehensive Power BI dashboard designed to track and analyze patient waiting
 
 An interactive and dynamic Power BI solution built to monitor patient waiting lists, analyze historical trends, and assess specialty-level and age-profile performance using healthcare data (2018–2021).
 
+
+
 🎯 Short Description / Purpose
+
 
 The Patient Waitlist Dashboard helps healthcare professionals and administrators visualize and analyze key metrics like total waiting list volume, monthly trends, and specialty performance. It serves as a decision-support tool for improving operational efficiency, identifying bottlenecks, and tracking progress across inpatient, outpatient, and day-case categories.
 
+
 🧰 Tech Stack
+
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – for visualization and report design
+Power BI Desktop – for visualization and report design
 
-🔄 Power Query – for data transformation and cleaning
+Power Query – for data transformation and cleaning
 
-🧠 DAX (Data Analysis Expressions) – for creating calculated measures, KPIs, and dynamic titles
+DAX (Data Analysis Expressions) – for creating calculated measures, KPIs, and dynamic titles
 
-🗃️ Data Modeling – establishing relationships between patient data and specialty mappings
+Data Modeling – establishing relationships between patient data and specialty mappings
 
-🧩 Power BI Service – for publishing, applying Row-Level Security (RLS), and scheduling refreshes
+Power BI Service – for publishing, applying Row-Level Security (RLS), and scheduling refreshes
 
-🖼️ PowerPoint / Canva – for creating dashboard backgrounds and layout design
+PowerPoint / Canva – for creating dashboard backgrounds and layout design
 
-🎨 Adobe Color – for extracting and applying consistent color palettes
+Adobe Color – for extracting and applying consistent color palettes
 
 
 
 🗂️ Data Source
+
 
 Source: Publicly available Healthcare Patient Waiting List data
 Scope: 2018 – 2021
@@ -55,7 +61,10 @@ Supplementary data:
 
 Specialty Mapping File (for grouping and categorization)
 
+
 ✨ Features / Highlights
+
+
 🏥 Business Problem
 
 Hospitals and healthcare authorities need clear visibility into their patient waiting lists — segmented by specialty, age, and case type — to optimize resource allocation and improve service delivery.
@@ -67,7 +76,9 @@ Compare performance year-over-year
 
 Identify overburdened specialties or demographic segments
 
+
 🎯 Goal of the Dashboard
+
 
 To deliver an interactive, self-service Power BI dashboard that enables stakeholders to:
 
@@ -79,7 +90,10 @@ Analyze trends by specialty, case type, and time band
 
 Support data-driven decision-making for healthcare operations
 
+
 📊 Walkthrough of Key Visuals
+
+
 Key KPIs (Top Section)
 
 Total Waitlist (Latest Month): Current month total
@@ -112,7 +126,9 @@ Tooltip Page
 
 Displays contextual insights on hover, including specialty-level totals
 
+
 💡 Business Impact & Insights
+
 
 Operational Efficiency: Identify departments with increasing backlogs
 
@@ -122,7 +138,9 @@ Resource Allocation: Prioritize staffing or capacity for overloaded departments
 
 Data Transparency: Empower decision-makers with real-time, visually clear data
 
+
 ⚙️ Development Workflow
+
 
 Requirement Gathering: Stakeholder interviews, scope definition, and metric identification
 
@@ -142,6 +160,8 @@ Testing & Sharing: UAT, data validation, and deployment with Row-Level Security 
 
 Routine Refresh: Scheduled monthly data updates and performance maintenance
 
+
 🔐 Security
+
 
 Row-Level Security (RLS) implemented to restrict data visibility based on specialty or hospital access — ensuring privacy and compliance in healthcare data visualization.
